@@ -5,7 +5,7 @@ pydantic==2.9.2
 pydantic-settings==2.5.2
 python-multipart==0.0.9
 
-# Aurhentication
+# Authentication
 python-jose[cryptography]==3.3.0
 passlib[bcrypt]==1.7.4
 
@@ -25,6 +25,7 @@ pandas==2.2.3
 numpy==1.26.4
 scikit-learn==1.5.2
 imbalanced-learn==0.12.3  # Class imbalance handling
+seaborn==0.13.2
 
 # XAI
 shap==0.46.0
